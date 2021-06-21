@@ -13,24 +13,23 @@ Create an AWS RDS database with tables in pgAdmin,and transform the DataFrame in
 
 
 # Results: Deliverable 1 
-Using bulleted lists and images of DataFrames as support, address the following questions:
+
+PgAdmin Table that matched the 4 DataFrames in PySprak notebook. 
+**(Please review Amazon_Reviews_ETL.ipyp file in this repo)
+[![All-Tables.png](https://i.postimg.cc/52s6nNVp/All-Tables.png)](https://postimg.cc/DSbvzhmb)
 
 
 
 <hr> </hr> 
 
 ## Deliverable 2: Determine Bias of Vine Reviews
-#### Workflow:
-1. DataFrame created using Pyspark methods 
-2. New DataFrame created that filters votes greater than 20 
-3. New DataFrame created that filters the percentage of helpful_votes/totalvotes equal to or greater than 50% 
-4. New DataFrame created that filters Vine review only 
-5. New DataFrame created that filters Non- Vine review only
-6. Calculations for the following: 
-    -  The total number of reviews
-    -  The number of 5-star reviews
-    -  The percentage 5-star reviews for all Vine 
-    -  The percentage 5-star reviews for all non-Vine reviews (15 pt)
+DataFrame created using Pyspark methods for the following: 
+
+1. New DataFrame created that filters votes greater than 20 
+2. New DataFrame created that filters the percentage of helpful_votes/totalvotes equal to or greater than 50%
+3. New DataFrame created that filters Vine review only 
+4. New DataFrame created that filters Non- Vine review only
+6. Calculations for the following: 1.) The total number of reviews 2.)The number of 5-star reviews 3.) The percentage 5-star reviews for all Vine 4.)The percentage 5-star reviews for all non-Vine reviews 
 
 # Results: Deliverable 2 
 Using bulleted lists and images of DataFrames as support, address the following questions:
@@ -55,12 +54,10 @@ Summary: In your summary, state if there is any positivity bias for reviews in t
 
 
 
-### Submission
-- Deliverable 1: Perform ETL on Amazon Product Reviews
-- Deliverable 2: Determine Bias of Vine Reviews
+# Submission
+### Uploads made to GitHub repository:
+- Deliverable 1: Perform ETL on Amazon Product Reviews (Amazon_Reviews_ETL.ipynb file.)
+- Deliverable 2: Determine Bias of Vine Reviews (Vine_Review_Analysis.ipynb file)
 - Deliverable 3: A Written Report on the Analysis (README.md)
 
-### Uploads made to Amazon_Vine_Analysis GitHub repository:
-Your Amazon_Reviews_ETL.ipynb file.
-Your Vine_Review_Analysis.ipynb or Vine_Review_Analysis.sql file.
-An updated README.md that has your written analysis.
+
