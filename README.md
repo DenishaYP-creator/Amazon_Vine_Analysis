@@ -49,7 +49,10 @@ Five Star Vine Reviews % | Five star Non-Vine Reviews %
 ------------ | -------------
 Content cell 1 | Content cell 2
 
-Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+# Summary: 
+There is a 7% difference between the percentage of 5 star Vine review versus non-Vine reviews, and As a result, we can conclude that there is a positivity bias for reviews in the Vine program. When we compare the "total Vine review" versus "non-Vine Review," we can visually see that there a to a notable difference in the population count. 
+Never the less the percentage of 5-star reviews is more significant than that of non-Vine Reviews. 
+ 
 
 
 
